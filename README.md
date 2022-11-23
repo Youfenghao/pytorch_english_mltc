@@ -23,3 +23,4 @@
 1. https://jovian.ai/kyawkhaung/1-titles-only-for-medium
 2. https://datahack.analyticsvidhya.com/contest/janatahack-independence-day-2020-ml-hackathon
 3. Fine-tuned BERT Model for Multi-Label Tweets Classification: https://trec.nist.gov/pubs/trec28/papers/DICE_UPB.IS.pdf
+4. https://blog.csdn.net/jclian91/article/details/123563040
